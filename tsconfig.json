@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",              // 👈 REQUIRED for aliasing to work
+    "paths": {
+      "@/*": ["app/*"]           // 👈 points to app folder
+    },
+    "jsx": "react-jsx",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "module": "ESNext",
+    "target": "ESNext",
+    "moduleResolution": "Bundler",
+    "strict": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
