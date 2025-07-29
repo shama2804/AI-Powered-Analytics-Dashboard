@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Revenue",
+    "value": "$12,450",
+    "change": "+8.2%",
+    "trend": "up"
+  },
+  {
+    "title": "Users",
+    "value": "1,045",
+    "change": "-3.1%",
+    "trend": "down"
+  },
+  {
+    "title": "Conversions",
+    "value": "320",
+    "change": "+12.7%",
+    "trend": "up"
+  },
+  {
+    "title": "Growth Rate",
+    "value": "5.4%",
+    "change": "-0.9%",
+    "trend": "down"
+  }
+]

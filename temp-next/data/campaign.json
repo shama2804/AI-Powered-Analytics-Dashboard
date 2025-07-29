@@ -1,0 +1,23 @@
+[
+  {
+    "campaign": "Summer Blast",
+    "impressions": 120000,
+    "clicks": 5400,
+    "conversions": 120,
+    "date": "2025-07-01"
+  },
+  {
+    "campaign": "Winter Promo",
+    "impressions": 98000,
+    "clicks": 4800,
+    "conversions": 110,
+    "date": "2025-07-05"
+  },
+  {
+    "campaign": "Diwali Campaign",
+    "impressions": 200000,
+    "clicks": 9000,
+    "conversions": 250,
+    "date": "2025-07-12"
+  }
+]
